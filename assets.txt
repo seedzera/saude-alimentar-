@@ -1,2 +1,45 @@
-<!-- backup do conteúdo original de 'assets' (era um arquivo) -->
-<!-- criado para permitir a criação da pasta assets/ com imagens SVG -->
+<!-- Slide 2 – Quem são as pessoas que passam fome
+
+A fome atinge principalmente as classes sociais mais baixas, que vivem em pobreza extrema.
+
+Famílias em situação de miséria, trabalhadores informais, desempregados e moradores de periferias.
+
+Crianças, idosos e mulheres são os mais afetados, pois sofrem mais com a carência de nutrientes.
+
+Povos indígenas, comunidades quilombolas e populações rurais isoladas também estão entre os mais vulneráveis.
+
+No Brasil, 33 milhões de pessoas vivem em insegurança alimentar grave (Rede PENSSAN, 2022).
+
+Slide 3 – Diferença entre classes sociais e a alimentação
+
+Classes altas: acesso a alimentos frescos, variados e de qualidade, com liberdade de escolha.
+
+Classes médias: conseguem manter uma alimentação básica, mas sofrem com a alta dos preços.
+
+Classes baixas: têm dificuldade até de garantir o mínimo, dependendo de doações e programas sociais.
+
+Essa desigualdade gera um contraste cruel: enquanto uns têm fartura e até desperdício, outros passam fome.
+
+A diferença entre as classes sociais é o fator central que determina quem come bem e quem passa fome.
+
+Slide 4 – Consequências da fome nas classes sociais baixas
+
+Crianças pobres sofrem com desnutrição crônica, prejudicando o aprendizado e o futuro.
+
+Mulheres das classes mais baixas muitas vezes deixam de comer para alimentar os filhos.
+
+Adultos enfrentam doenças causadas por má alimentação, como anemia, obesidade por ultraprocessados e diabetes.
+
+A fome mantém a exclusão social: sem saúde e energia, é difícil estudar, trabalhar e melhorar de vida.
+
+Enquanto isso, nas classes altas, a preocupação está em alimentação saudável, dietas e bem-estar.
+
+Slide 5 – Conclusão
+
+A fome não é causada pela falta de alimentos, mas pela desigualdade entre as classes sociais.
+
+Milhões de pessoas sofrem diariamente com a insegurança alimentar, enquanto outra parte da população vive em abundância.
+
+Esse contraste mostra que a fome é uma questão de justiça social, e não apenas de produção de comida.
+
+Compreender a relação entre alimentação e classes sociais é essencial para lutar contra a desigualdade e garantir o direito de todos à alimentação digna.-->
